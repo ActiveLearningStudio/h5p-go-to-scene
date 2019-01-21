@@ -1,7 +1,7 @@
 [
   {
     "name": "nextSceneId",
-    "type": "text",
+    "type": "number",
     "label": "Go to scene with ID",
     "importance": "high",
     "description": "ID of the scene that we will jump to"
